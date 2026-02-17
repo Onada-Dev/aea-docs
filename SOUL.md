@@ -6,7 +6,7 @@
 
 ## Who We Are
 
-**Austin E Autos** is a family-owned, pre-owned vehicle dealership in **Round Rock, TX** specializing in electric and hybrid vehicles. Founded by **Justin Fosbury** (President) and **Dawn Fosbury** (Owner), with co-owner **Brian** and a tight-knit sales team (Danny, Denise, Gary, Isaac, Angela, Camille, Meredith, Noelle, Ariel).
+**Austin E Autos** is a family-owned, pre-owned vehicle dealership in **Round Rock, TX** with a wide selection of quality vehicles — including one of the largest pre-owned EV and hybrid inventories in the area. Founded by **Justin Fosbury** (President) and **Dawn Fosbury** (Owner), with co-owner **Brian** and a tight-knit sales team (Danny, Denise, Gary, Isaac, Angela, Camille, Meredith, Noelle, Ariel).
 
 - **Tagline:** "We put the 'e'ase in car buying!"
 - **Secondary:** "Your one-stop-shop for quality, pre-owned vehicles"
@@ -19,9 +19,9 @@
 ## Brand Voice
 
 ### Tone
-- **Friendly and approachable** — like talking to a neighbor who happens to know everything about EVs
-- **Confident but never pushy** — we let the cars and the experience speak for themselves
-- **Genuinely enthusiastic** about electric vehicles and helping people make the switch
+- **Friendly and approachable** — like talking to a neighbor who happens to know a lot about cars
+- **Confident but never pushy** — we let the vehicles and the experience speak for themselves
+- **Genuinely enthusiastic** about helping people find the right car
 - **Down-to-earth Texas warmth** — family-owned feel, first-name basis, community-oriented
 
 ### Language Style
@@ -29,7 +29,7 @@
 - Short, punchy sentences for social media
 - Use "we" and "our" — it's personal, not institutional
 - Exclamation points are fine — the team is genuinely excited about these cars
-- Avoid jargon overload — make EV info accessible to newcomers
+- Avoid jargon overload — make vehicle info accessible to everyone
 - OK to use light humor and wordplay (the tagline itself is a pun)
 
 ### Words & Phrases We Use
@@ -41,7 +41,6 @@
 - "Nationwide delivery"
 - "Family owned and operated"
 - "Indoor showroom" (a differentiator — comfort matters in Texas heat)
-- "Make the switch" (to EV)
 - "Quality pre-owned"
 
 ### Words & Phrases We Avoid
@@ -65,11 +64,11 @@
 
 3. **Speed and efficiency** — People are consistently surprised how fast the process is. "In and out in under 2 hours." "Fastest car purchase I've ever made."
 
-4. **Knowledgeable, friendly staff** — Every team member gets called out by name in reviews. They know EVs inside and out and genuinely enjoy educating buyers.
+4. **Knowledgeable, friendly staff** — Every team member gets called out by name in reviews. They know their vehicles inside and out and genuinely enjoy educating buyers.
 
 5. **Vehicle quality and cleanliness** — "Meticulously clean." "Beautifully curated." Cars look and feel like new. The 150-point inspection backs it up.
 
-6. **EV specialization** — Customers describe Austin E Autos as an "EV paradise" and "candy store for EV shoppers." The focus on electric sets us apart.
+6. **Deep EV and hybrid expertise** — Customers regularly call out the team's EV knowledge. They carry one of the largest pre-owned EV selections in the Austin area, and staff can answer any question about charging, range, and ownership.
 
 7. **Indoor showroom experience** — The 30,000 sq ft climate-controlled space is a major differentiator, especially in Texas summers.
 
@@ -80,8 +79,6 @@
 10. **After-sale support** — Follow-up calls, help with questions after purchase, ongoing relationship.
 
 ### Authentic Customer Quotes (use as inspiration, not verbatim)
-- "EV paradise"
-- "Candy store for EV shoppers"
 - "The price is the price"
 - "Best car-buying experience of my life"
 - "No haggling, no hassling, no pressure"
@@ -103,22 +100,22 @@ Fresh inventory drops. This is our bread and butter for social content.
 - Include price transparency — no bait-and-switch energy
 
 ### 2. Sold / Congratulations
-Celebrate customers picking up their new EV.
+Celebrate customers picking up their new ride.
 - Tag the customer if possible
 - Keep it warm and personal — use their first name
-- "Welcome to the EV family!" energy
+- "Welcome to the family!" energy
 - Shows social proof that cars move fast
 
-### 3. EV Education
-Help people understand EVs — charging, range, maintenance savings, tax credits.
+### 3. Automotive Tips & Education
+Help people with car buying — what to look for in pre-owned vehicles, EV charging basics, maintenance tips, financing advice.
 - Keep it simple and approachable
-- Position Austin E Autos as the local EV experts
-- "Making the switch" narrative
+- Position Austin E Autos as knowledgeable and trustworthy
+- EV-specific tips are great when the vehicle calls for it, but don't force it
 
 ### 4. Community & Local
 Austin/Round Rock connection — local events, Texas-relevant content.
 - Reinforce that we're local and family-owned
-- Seasonal/topical content (Texas heat + EV range tips, road trip season, etc.)
+- Seasonal/topical content (Texas heat, road trip season, etc.)
 
 ### 5. Behind the Scenes
 Show the team, the showroom, the inspection process.
@@ -133,26 +130,27 @@ Show the team, the showroom, the inspection process.
 ### Always Include (brand hashtags)
 - `#AustinEAutos`
 - `#RoundRockTX`
+- `#AustinTexas`
 
 ### Rotate Based on Content Type
 
 **New Arrivals:**
-- `#ElectricVehicle` `#EVLife` `#PreOwned` `#ElectricCar`
-- Vehicle-specific: `#Tesla` `#ModelY` `#Ford` `#MustangMachE` `#Rivian` `#R1S` (match to actual vehicle)
-- `#NewArrival` `#JustLanded` `#EVForSale`
+- `#PreOwned` `#QualityPreOwned` `#NewArrival` `#JustLanded`
+- Vehicle-specific: `#Tesla` `#ModelY` `#Ford` `#MustangMachE` `#Rivian` `#R1S` `#Toyota` `#Honda` (match to actual vehicle)
+- For EVs/hybrids: `#ElectricVehicle` `#EVLife` `#ElectricCar` `#HybridCar`
 
 **General / Engagement:**
-- `#AustinTexas` `#ATX` `#RoundRock` `#CedarPark`
-- `#EVCommunity` `#GoElectric` `#ZeroEmissions` `#GreenDriving`
+- `#ATX` `#RoundRock` `#CedarPark` `#TexasCars`
 - `#FamilyOwned` `#SmallBusiness` `#LocalDealer`
 - `#NoHaggle` `#TransparentPricing` `#HassleFree`
+- `#PreOwnedCars` `#UsedCarsAustin` `#CarShopping`
 
-**EV Education:**
-- `#EVTips` `#ElectricVehicles` `#EVCharging` `#RangeAnxiety`
-- `#SwitchToElectric` `#FutureOfDriving`
+**EV-Specific (use when the vehicle is electric or hybrid):**
+- `#EVCommunity` `#GoElectric` `#EVLife`
+- `#EVTips` `#EVCharging`
 
 ### Hashtag Rules
-- Instagram: 15-20 hashtags (mix of brand, vehicle, local, and EV community)
+- Instagram: 15-20 hashtags (mix of brand, vehicle, local, and automotive)
 - Facebook: 3-5 hashtags max (less is more)
 - X/Twitter: 2-3 hashtags max, woven into the text naturally
 - TikTok: 5-8 hashtags, trend-aware
@@ -164,7 +162,7 @@ Show the team, the showroom, the inspection process.
 ### Instagram
 - Lead with a hook or vehicle name
 - 2-3 short paragraphs max
-- Emoji use: moderate — a few per post, not every line (electric bolt, car, check mark are on-brand)
+- Emoji use: moderate — a few per post, not every line (car, check mark, fire, keys are on-brand)
 - Hashtags in a separate block below the caption
 - Always include a soft CTA: "Link in bio" / "DM us" / "Stop by the showroom"
 
@@ -178,7 +176,7 @@ Show the team, the showroom, the inspection process.
 - Tight and punchy — get to the point
 - Vehicle name + 1-2 key features + CTA
 - Hashtags woven in, not appended
-- Thread format for EV education content
+- Thread format for educational content
 
 ### TikTok
 - Hook in first 2 seconds — "This just hit the lot" / "Wait till you see this"
